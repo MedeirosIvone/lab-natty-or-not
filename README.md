@@ -24,15 +24,21 @@ Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisicu
 
 ## 📒 Descrição
 Breve descrição do seu projeto
+Criar um video curto sobre beneficios da musculação
 
 ## 🤖 Tecnologias Utilizadas
 Liste as IAs Generativas e outras ferramentas usadas
+Usei o ChatGPT para criar um resumo dos beneficios da musculacao em 1 frase curta
+Criei uma conta na plataform.openai.com, mas nao consegui editar nada.
+
 
 ## 🧐 Processo de Criação
 Descreva como você criou o conteúdo
+Pelo menos a frase eu consegui...
 
 ## 🚀 Resultados
 Apresente os resultados do seu projeto
+ 
 
 ## 💭 Reflexão (Opcional)
 Comente sobre o desafio de criar algo 'natty' com IA.
